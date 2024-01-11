@@ -1,7 +1,7 @@
 # Angular CRUD Application with Bootstrap and Angular Material
 
 ## Introduction
-Welcome to our Angular CRUD (Create, Read, Update, Delete) application! This guide will walk you through the setup and installation process, allowing you to seamlessly interact with a `db.json` server. Our application showcases a curated list of paintings, offering users the ability to view, add, edit, and delete entries. The interface is styled with Bootstrap for a sleek look and incorporates Angular Material components (visit [Angular Material](https://material.angular.io/components/categories)) for enhanced user experience.
+Welcome to my Angular CRUD (Create, Read, Update, Delete) application! This guide will walk you through the setup and installation process, allowing you to seamlessly interact with a `db.json` server. My application showcases a curated list of paintings, offering users the ability to view, add, edit, and delete entries. The interface is styled with Bootstrap for a sleek look and incorporates Angular Material components (visit [Angular Material](https://material.angular.io/components/categories)) for enhanced user experience.
 
 ## Prerequisites
 Before diving in, ensure you have the following installed on your system:
