@@ -1,0 +1,16 @@
+.btn{
+    margin: 5px;
+}
+.custom-table{
+    background-color: #B8DDF0;
+    border: 5px solid #B8DDF0;
+    border-radius: 10px;
+    box-shadow: 2px 4px 6px 2px #84acc1; 
+    
+}
+.content {
+    padding: 20px;
+    &:hover{
+        background-color: #d8f1fe;
+    }
+}

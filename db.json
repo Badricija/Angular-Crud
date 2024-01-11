@@ -1,0 +1,124 @@
+{
+  "posts": [
+    {
+      "title": "Starry Night",
+      "description": "Starry Night is one of Van Gogh's most famous works, known for its swirling night sky filled with stars and the iconic cypress tree.",
+      "image": "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg",
+      "id": 1
+    },
+    {
+      "title": "Sunflowers",
+      "description": "Sunflowers is a series of still life paintings by Van Gogh, depicting sunflowers in various stages of bloom. The vibrant colors and bold strokes are characteristic of his style.",
+      "image": "https://iiif.micr.io/TZCqF/full/1280,/0/default.jpg",
+      "id": 2
+    },
+    {
+      "title": "The Bedroom",
+      "description": "The Bedroom is a series of three paintings by Van Gogh, depicting his bedroom in the Yellow House in Arles. The paintings convey a sense of warmth and simplicity.",
+      "image": "https://iiif.micr.io/ZKSPH/full/1280,/0/default.jpg",
+      "id": 3
+    },
+    {
+      "title": "Irises",
+      "description": "Irises is another floral masterpiece by Van Gogh, showcasing his fascination with color and texture. The swirling patterns in the background add a dynamic element to the composition.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Irises-Vincent_van_Gogh.jpg/1200px-Irises-Vincent_van_Gogh.jpg",
+      "id": 4
+    },
+    {
+      "title": "Café Terrace at Night",
+      "description": "Café Terrace at Night portrays a charming scene of a cafe in Arles at night. The use of vibrant colors and the starry sky create a sense of warmth and atmosphere.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Vincent_van_Gogh_%281853-1890%29_Caf%C3%A9terras_bij_nacht_%28place_du_Forum%29_Kr%C3%B6ller-M%C3%BCller_Museum_Otterlo_23-8-2016_13-35-40.JPG",
+      "id": 5
+    },
+    {
+      "title": "The Starry Night Over the Rhône",
+      "description": "This painting depicts the night sky over the Rhône River. While not as famous as Starry Night, it showcases Van Gogh's unique approach to capturing the beauty of the night.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Starry_Night_Over_the_Rhone.jpg/800px-Starry_Night_Over_the_Rhone.jpg",
+      "id": 6
+    },
+    {
+      "title": "Wheat Field with Cypresses",
+      "description": "Wheat Field with Cypresses is a landscape painting featuring swirling patterns in the sky and vibrant colors in the wheat field. The cypress trees add a vertical element to the composition.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Wheat-Field-with-Cypresses-%281889%29-Vincent-van-Gogh-Met.jpg",
+      "id": 7
+    },
+    {
+      "title": "Almond Blossoms",
+      "description": "Almond Blossoms is a series of paintings celebrating the birth of Van Gogh's nephew. The delicate pink blossoms against a blue sky create a sense of tranquility.",
+      "image": "https://iiif.micr.io/rAERt/full/,710/0/default.jpg",
+      "id": 8
+    },
+    {
+      "title": "Portrait of Dr. Gachet",
+      "description": "Portrait of Dr. Gachet is a portrait of Van Gogh's doctor and friend. The use of color and the intensity of the expression reflect Van Gogh's emotional state at the time.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Portrait_of_Dr._Gachet.jpg",
+      "id": 9
+    },
+    {
+      "title": "The Potato Eaters",
+      "description": "The Potato Eaters is one of Van Gogh's early works, depicting a group of peasants sharing a meal. The dark and earthy tones capture the harsh reality of rural life.",
+      "image": "https://iiif.micr.io/yzksg/full/1280,/0/default.jpg",
+      "id": 10
+    },
+    {
+      "title": "Olive Trees",
+      "description": "Olive Trees is a series of paintings depicting olive trees in various landscapes. The twisted forms of the trees and the vibrant colors showcase Van Gogh's expressive style.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Van_Gogh_The_Olive_Trees..jpg",
+      "id": 11
+    },
+    {
+      "title": "The Mulberry Tree",
+      "description": "The Mulberry Tree is a landscape painting featuring a mulberry tree against a blue sky. The swirling patterns in the sky and the textured foliage demonstrate Van Gogh's unique approach to nature.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Mulberry_Tree_by_Vincent_van_Gogh.jpg",
+      "id": 12
+    },
+    {
+      "title": "Self-Portrait with Bandaged Ear",
+      "description": "This self-portrait was created after Van Gogh famously cut off part of his ear. The bandaged ear and the intense gaze convey the artist's struggle with mental health.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Vincent_van_Gogh_-_Self-portrait_with_bandaged_ear_%281889%2C_Courtauld_Institute%29.jpg",
+      "id": 13
+    },
+    {
+      "title": "The Yellow House",
+      "description": "The Yellow House depicts the exterior of Van Gogh's residence in Arles. The use of bold yellow tones and dynamic brushstrokes reflects his distinctive style.",
+      "image": "https://www.vangoghstudio.com//Files/6/102000/102147/ProductPhotos/620/1231119897.jpg",
+      "id": 14
+    },
+    {
+      "title": "Van Gogh's Chair",
+      "description": "Van Gogh's Chair is a still life painting featuring a chair and various personal items. The vibrant colors and unique perspective showcase Van Gogh's attention to everyday objects.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Vincent_Willem_van_Gogh_138.jpg",
+      "id": 15
+    },
+    {
+      "title": "The Night Café",
+      "description": "The Night Café is a vibrant and emotionally charged painting of a café interior. The use of intense reds and greens creates a sense of disquiet and unease.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vincent_Willem_van_Gogh_076.jpg",
+      "id": 16
+    },
+    {
+      "title": "Portrait of Joseph Roulin",
+      "description": "Portrait of Joseph Roulin is a portrait of Van Gogh's postman friend. The warm colors and the attentive expression capture the character of the sitter.",
+      "image": "https://lh3.googleusercontent.com/ci/AE9Axz_14aU7T9x3ltm8I1MI3qGg6KtS3qwf1aGg-YBSFmicEcKe4XttxWc9qaZsk89qAtPTJbI7IX0=s1200",
+      "id": 17
+    },
+    {
+      "title": "The Sower",
+      "description": "The Sower is a depiction of a sower in a vast landscape. The dynamic composition and the use of bold colors convey a sense of energy and movement.",
+      "image": "https://www.vangoghstudio.com//Files/6/102000/102147/ProductPhotos/620/1667515697.jpg",
+      "id": 18
+    },
+    {
+      "title": "The Red Vineyards near Arles",
+      "description": "The Red Vineyards near Arles is notable for being one of the few paintings that Van Gogh sold during his lifetime. The rich red tones and textured brushstrokes capture the essence of the vineyards.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Red_vineyards.jpg",
+      "id": 19
+    },
+    {
+      "title": "The Olive Orchard",
+      "description": "The Olive Orchard depicts a serene landscape with olive trees. Van Gogh's expressive brushstrokes capture the essence of the grove.",
+      "image": "https://media.nga.gov/iiif/f07617e8-43ad-4954-8223-4b40dce37061/full/full/0/default.jpg?attachment_filename=the_olive_orchard_1963.10.152.jpg",
+      "id": 20
+    }
+  ]
+}

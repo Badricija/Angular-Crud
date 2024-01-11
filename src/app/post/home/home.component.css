@@ -1,0 +1,13 @@
+.image{
+  max-height: 500px;
+}
+.carousel{
+  max-height: 500px;
+  max-width: 30%;
+}
+.link{
+  text-decoration: none;
+  color: white;
+  font-size: 30px;
+}
+
